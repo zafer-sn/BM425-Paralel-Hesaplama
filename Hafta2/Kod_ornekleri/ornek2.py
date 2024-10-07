@@ -1,0 +1,1 @@
+import ornek1 as or1
