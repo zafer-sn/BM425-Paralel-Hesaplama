@@ -1,0 +1,5 @@
+dosya = open("Hafta3/test.txt")
+print(dosya.read())
+dosya.seek(0)
+print(dosya.read())
+dosya.close()
